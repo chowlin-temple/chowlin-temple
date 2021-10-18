@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chowlin-temple
-- 👀 I’m interested in 
+- 👀 I’m interested in 👀
 - 🌱 I’m currently learning Github :/
 - 💞️ I’m looking to collaborate on CICD
 - 📫 How to reach me https://pranab.bio.link
