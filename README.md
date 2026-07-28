@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chowlin-temple
-- 🌱 I’m currently learning Github :/
 - 📫 How to reach me https://pranab.bio.link
 
 <!---
